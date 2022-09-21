@@ -16,5 +16,8 @@ bike riders were men who had a subscription with the company. The most
 popular times of bike usage were during the morning and evening rush 
 hours of 8am and 5-6PM. The count of each bike's tripduration should 
 also be factored in to ensure the proper maintenance of each bike. The 
-best times to repair bikes would be between 1:00-4:00AM. 
+best times to repair bikes would be between 1:00-4:00AM. Data that would 
+be useful to have would be how many citibike stations there are by location. 
+Seeing a map of this would be helpful in determining a more accurate top 
+start and end locations, as well as user count and total number of rides.  
 [link to dashboard](https://public.tableau.com/app/profile/caitlin.kanchanda/viz/NYCCitiBikeAnalysis_16637142542160/NYCCitiBikesAnalysis?publish=yes)
