@@ -20,4 +20,4 @@ best times to repair bikes would be between 1:00-4:00AM. Data that would
 be useful to have would be how many citibike stations there are by location. 
 Seeing a map of this would be helpful in determining a more accurate top 
 start and end locations, as well as user count and total number of rides.  
-[link to dashboard](https://public.tableau.com/app/profile/caitlin.kanchanda/viz/NYCCitiBikeAnalysis_16637142542160/NYCCitiBikesAnalysis?publish=yes)
+[LINK TO FINAL PRESENTATION STORY](https://public.tableau.com/app/profile/caitlin.kanchanda/viz/NYCCitiBikeAnalysis_16637142542160/NYCCitiBikesAnalysis?publish=yes)
